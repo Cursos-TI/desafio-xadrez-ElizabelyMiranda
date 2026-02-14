@@ -6,6 +6,7 @@
 
 int main() { 
     printf(''Desafio Xadrez!\n");Nível Novato - Movimentação das Peças
+    printf(''Novo commit\n'');
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
 
     // Implementação de Movimentação do Bispo
